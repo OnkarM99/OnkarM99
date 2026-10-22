@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ### AI Engineer, Data Scientist
 🎯 **Looking for new opportunities!** | Based in Pune, India
 
-[<img src="https://shields.io🔗-0077B5?style=for-the-badge" />] https://linkedin.com/in/onkar-malage
+[![LinkedIn](https://shields.io)] https://linkedin.com/in/onkar-malage
 
 ---
 
 <!--
-
+[<img src="https://shields.io🔗-0077B5?style=for-the-badge" />] 
 [<img src="https://shields.io📝-blue?style=for-the-badge" />](YOUR_RESUME_LINK)
 [<img src="https://shields.io🌐-darkgreen?style=for-the-badge" />](YOUR_PORTFOLIO_LINK)
 
