@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### AI Engineer, Data Scientist
 🎯 **Looking for new opportunities!** | Based in Pune, India
 
-[<img src="https://shields.io🔗-0077B5?style=for-the-badge" />]https://linkedin.com/in/onkar-malage
+[<img src="https://shields.io🔗-0077B5?style=for-the-badge" />] https://linkedin.com/in/onkar-malage
 
 ---
 
